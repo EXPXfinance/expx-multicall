@@ -1,2 +1,2 @@
 # expx-multicall
-Bsc multicall wrapped
+Bsc multicall wrapper
