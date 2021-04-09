@@ -1,0 +1,20 @@
+{
+  "name": "@expx/multicall",
+  "version": "0.0.6",
+  "license": "GPL-3.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build"
+  },
+  "dependencies": {
+    "@ethersproject/abi": "^5.0.0",
+    "@ethersproject/contracts": "^5.0.0",
+    "@ethersproject/providers": "^5.0.0",
+    "@types/node": "^14.11.5",
+    "js-sha3": "^0.8.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
